@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Matrix
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 ## Combinatorics
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1447-jump-game-iv) |
 | [1873-longest-nice-substring](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -520,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 <!---LeetCode Topics End-->
