@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Recursion
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Matrix
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 ## Divide and Conquer
 |  |
 | ------- |
