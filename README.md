@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
+| [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0948-sort-an-array) |
+| [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -506,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0214-shortest-palindrome) |
+## Ordered Set
+|  |
+| ------- |
+| [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 <!---LeetCode Topics End-->
