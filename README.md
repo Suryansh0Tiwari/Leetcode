@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 ## Graph
 |  |
 | ------- |
@@ -329,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
