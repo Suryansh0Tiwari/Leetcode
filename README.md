@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Matrix
 |  |
@@ -399,10 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Trie
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1873-longest-nice-substring](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1873-longest-nice-substring) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
