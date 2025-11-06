@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 ## Recursion
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 ## Matrix
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
