@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0392-is-subsequence) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0039-combination-sum) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0055-jump-game) |
