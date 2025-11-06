@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Recursion
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1447-jump-game-iv](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1447-jump-game-iv) |
 | [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 ## Brainteaser
 |  |
 | ------- |
