@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0869-similar-string-groups](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0869-similar-string-groups) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1873-longest-nice-substring](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Recursion
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1447-jump-game-iv](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1447-jump-game-iv) |
 | [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
