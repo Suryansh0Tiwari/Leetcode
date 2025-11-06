@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
+| [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Recursion
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1447-jump-game-iv](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1447-jump-game-iv) |
+| [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-video-stitching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1081-video-stitching) |
+| [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Divide and Conquer
 |  |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0948-sort-an-array) |
+| [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Bucket Sort
 |  |
