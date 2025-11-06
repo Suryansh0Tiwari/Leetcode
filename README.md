@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
