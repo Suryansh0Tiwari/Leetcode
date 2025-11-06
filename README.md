@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -420,11 +422,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Trie
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1873-longest-nice-substring](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
