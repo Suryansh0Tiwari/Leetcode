@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Backtracking
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Graph
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Bitmask
@@ -429,4 +432,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
