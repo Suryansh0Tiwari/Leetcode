@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
