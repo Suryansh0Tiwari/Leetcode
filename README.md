@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Math
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Graph
@@ -320,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
