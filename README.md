@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
