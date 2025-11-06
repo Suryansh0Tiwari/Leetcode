@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0911-profitable-schemes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0911-profitable-schemes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
+| [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
