@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Bitmask
 |  |
 | ------- |
@@ -369,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
