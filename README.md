@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Bitmask
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
