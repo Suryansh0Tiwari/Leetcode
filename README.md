@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0948-sort-an-array) |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
 ## Bitmask
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -539,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
+## Shortest Path
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
