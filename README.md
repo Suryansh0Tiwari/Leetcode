@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
