@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,11 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Bitmask
 |  |
@@ -311,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
