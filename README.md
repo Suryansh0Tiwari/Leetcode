@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
