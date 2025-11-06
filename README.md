@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 ## Combinatorics
 |  |
@@ -526,5 +529,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 <!---LeetCode Topics End-->
