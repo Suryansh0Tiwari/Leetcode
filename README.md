@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
@@ -443,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
