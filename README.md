@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
+| [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Recursion
 |  |
 | ------- |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
+| [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1117-as-far-from-land-as-possible](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 ## Graph
 |  |
 | ------- |
