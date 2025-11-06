@@ -69,7 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1063-best-sightseeing-pair) |
-| [1236-n-th-tribonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -126,7 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1013-fibonacci-number) |
-| [1236-n-th-tribonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,7 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1013-fibonacci-number) |
-| [1236-n-th-tribonacci-number](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -228,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
