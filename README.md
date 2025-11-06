@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0053-maximum-subarray) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
@@ -243,10 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
