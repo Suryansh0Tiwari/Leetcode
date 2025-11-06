@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
