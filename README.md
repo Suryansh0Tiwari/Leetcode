@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2035-count-sub-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2035-count-sub-islands) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [3809-properties-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/3809-properties-graph) |
