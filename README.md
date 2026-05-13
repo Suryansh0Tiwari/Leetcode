@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1447-jump-game-iv](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1447-jump-game-iv) |
 | [1503-reducing-dishes](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1503-reducing-dishes) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1794-minimize-deviation-in-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0869-similar-string-groups](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0869-similar-string-groups) |
 | [1447-jump-game-iv](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1447-jump-game-iv) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1873-longest-nice-substring](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Brainteaser
 |  |
 | ------- |
