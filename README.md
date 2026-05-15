@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0146-lru-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -563,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
