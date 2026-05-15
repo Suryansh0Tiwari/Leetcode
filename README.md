@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0772-construct-quad-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0772-construct-quad-tree) |
 ## Binary Search Tree
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0695-max-area-of-island) |
