@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0376-wiggle-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
