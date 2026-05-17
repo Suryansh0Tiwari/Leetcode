@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0146-lru-cache) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0404-sum-of-left-leaves) |
