@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0397-integer-replacement](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0397-integer-replacement) |
