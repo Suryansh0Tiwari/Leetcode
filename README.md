@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0677-map-sum-pairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0869-similar-string-groups](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0869-similar-string-groups) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0677-map-sum-pairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0869-similar-string-groups](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0869-similar-string-groups) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0212-word-search-ii) |
+| [0677-map-sum-pairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0677-map-sum-pairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0677-map-sum-pairs) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Simulation
 |  |
