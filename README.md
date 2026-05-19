@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0542-01-matrix) |
+| [0629-k-inverse-pairs-array](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Suryansh0Tiwari/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
