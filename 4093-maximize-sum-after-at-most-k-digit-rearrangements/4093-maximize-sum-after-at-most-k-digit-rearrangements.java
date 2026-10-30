@@ -23,7 +23,7 @@ class Solution {
         
         
         for (int i = n - 1; i >= 0 && k > 0; i--) {
-            if (gains[i] <= 0) break; // No benefit in rearranging
+            if (gains[i] <= 0) break; 
             totalSum += gains[i];
             k--;
         }
